@@ -1,0 +1,14 @@
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\bin\Debug\net8.0\Lab4.exe
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\bin\Debug\net8.0\Lab4.deps.json
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\bin\Debug\net8.0\Lab4.dll
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\bin\Debug\net8.0\Lab4.pdb
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\Lab4.dll
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\Lab4.pdb
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+D:\VisualStudio\C#\Patterns\Lab4-5\Lab4\obj\Debug\net8.0\ref\Lab4.dll
